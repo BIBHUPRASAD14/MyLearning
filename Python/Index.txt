@@ -1,0 +1,27 @@
+#Day 1
+Introduction
+to programming and python
+
+#Day 2
+Some amazing programs and
+games using python
+
+#Day 3
+modules and pip
+External and built in modules
+pip and pip3 to install
+modules and packages
+
+#Day 4
+First program execution using python
+
+#Day 5
+Comments
+Multiline and Single Line
+Escape Sequence
+\n - new Line
+\" - to escape " in print statement
+print statement
+sep="" for separator
+end="" for ending with something specific
+
